@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    gap: 20px;
+}
+
+.main__forms {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.main__forms-input {
+    height: 40px;
+    width: 250px;
+}
+
+.titles {
+    color: rgb(111, 43, 201);
+}
+
+.main__forms-button {
+    width: 150px;
+    height: 30px;
+    background-color: rgb(111, 43, 201);
+    color: white;
+    border: none;
+    font-size: 18px;
+
+}
